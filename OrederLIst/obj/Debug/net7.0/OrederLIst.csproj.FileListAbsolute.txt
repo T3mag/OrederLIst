@@ -1,0 +1,15 @@
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/bin/Debug/net7.0/OrederLIst
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/bin/Debug/net7.0/OrederLIst.deps.json
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/bin/Debug/net7.0/OrederLIst.runtimeconfig.json
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/bin/Debug/net7.0/OrederLIst.dll
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/bin/Debug/net7.0/OrederLIst.pdb
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/OrederLIst.csproj.AssemblyReference.cache
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/OrederLIst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/OrederLIst.AssemblyInfoInputs.cache
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/OrederLIst.AssemblyInfo.cs
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/OrederLIst.csproj.CoreCompileInputs.cache
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/OrederLIst.dll
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/refint/OrederLIst.dll
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/OrederLIst.pdb
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/OrederLIst.genruntimeconfig.cache
+/Users/arturminnusin/RiderProjects/OrederLIst/OrederLIst/obj/Debug/net7.0/ref/OrederLIst.dll
